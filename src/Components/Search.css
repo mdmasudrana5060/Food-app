@@ -1,0 +1,25 @@
+.searchContainer {
+  margin: 20px auto;
+  width: 300px;
+  position: relative;
+}
+.input {
+  padding: 10px 20px;
+  width: 100%;
+  font-size: 16px;
+  color: #393e46;
+}
+.childContainer {
+  display: flex;
+}
+
+.childItemNumber1 {
+  flex: 1;
+
+  margin: 10px;
+  flex: 0 0 500px;
+}
+.childItemNumber2 {
+  flex: 1;
+  margin: 10px;
+}

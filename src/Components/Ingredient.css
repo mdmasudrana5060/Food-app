@@ -1,0 +1,10 @@
+.itemContainer {
+  padding: 10px;
+  padding-left: 20px;
+  margin-top: 50px;
+  box-shadow: 0 4px 6px rgb(0, 0, 0, 0.1);
+  border-radius: 10px;
+  font-family: Polysans, sans-serif;
+  color: #393e46;
+  text-transform: capitalize;
+}
